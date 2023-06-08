@@ -1,0 +1,1 @@
+# sql-dumb-for-techlink-Solutions-data
